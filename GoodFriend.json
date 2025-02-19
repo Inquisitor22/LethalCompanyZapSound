@@ -1,0 +1,22 @@
+[
+    {
+        "Author": "Blooym",
+        "Name": "GoodFriend",
+        "Description": "A Dalamud plugin & associated web-API that provides improved in-game social functionality",
+        "InternalName": "GoodFriend",
+        "AssemblyVersion": "v3.3.3.0",
+        "TestingAssemblyVersion": "v3.3.3.0",
+        "RepoUrl": "https://github.com/Blooym/GoodFriend",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 11,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 69420,
+        "DownloadLinkInstall": "https://github.com/Blooym/GoodFriend/releases/download/v3.3.3.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Blooym/GoodFriend/releases/download/v3.3.3.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Blooym/GoodFriend/releases/download/v3.3.3.0/latest.zip",
+        "IconUrl": "https://github.com/Blooym/GoodFriend/raw/main/assets/icons/icon.png"
+    }
+]
